@@ -1,1 +1,4 @@
-Blog post
+---
+title: "A Title"
+date: 2022-03-30
+---
